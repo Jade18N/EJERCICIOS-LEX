@@ -1,0 +1,7 @@
+===== CLASIFICACION DE CARACTERES =====
+Letras mayusculas : 23
+Letras minusculas : 3
+Digitos           : 5
+Espacios en blanco: 7
+Otros caracteres  : 4
+Total             : 42

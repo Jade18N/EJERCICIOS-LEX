@@ -1,0 +1,7 @@
+CORREO VALIDO     orlinemanuel21@gmail.com
+CORREO VALIDO     correoquenadaquever@outlook.com
+CORREO VALIDO     aaroncitoxana@yahoo.com
+CORREO INVALIDO   correovalido@gmail.123
+-----------------------------
+Correos validos  : 3
+Correos invalidos: 1

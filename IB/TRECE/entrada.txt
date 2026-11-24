@@ -1,0 +1,7 @@
+a, b, c
+10, 20, 30
+x1, 42, total_suma, 7
+Encalada, Palacios, Revelo
+a, 3.5, b
+valor, @, 99
+nota = 1

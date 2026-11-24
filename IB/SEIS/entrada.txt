@@ -1,0 +1,6 @@
+int main(){
+	int edad = 20;
+	if (edad > 18) edad = edad + 1;
+	else edad = 0;
+	while Encalada iffy If int2 007 12abc _temp
+}

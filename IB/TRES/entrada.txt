@@ -1,4 +1,3 @@
-Hola. Este soy yo escribiendo texto de prueba para el ejercicio tres.
-Despues de guardar este archivo lo voy a pasar por el programa generado.
-Hora de hacer la prueba.
-Saludos.
+Encalada, Palacios, Revelo
+El besto team de compiladores
+

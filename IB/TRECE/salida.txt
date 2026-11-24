@@ -1,0 +1,26 @@
+Lista 1: IDENTIFICADOR  a
+Lista 1: IDENTIFICADOR  b
+Lista 1: IDENTIFICADOR  c
+Lista 2: ENTERO         10
+Lista 2: ENTERO         20
+Lista 2: ENTERO         30
+Lista 3: IDENTIFICADOR  x1
+Lista 3: ENTERO         42
+Lista 3: IDENTIFICADOR  total_suma
+Lista 3: ENTERO         7
+Lista 4: IDENTIFICADOR  Encalada
+Lista 4: IDENTIFICADOR  Palacios
+Lista 4: IDENTIFICADOR  Revelo
+Lista 5: IDENTIFICADOR  a
+Lista 5: ENTERO         3
+Lista 5: ERROR          token no valido '.'
+Lista 5: ENTERO         5
+Lista 5: IDENTIFICADOR  b
+Lista 6: IDENTIFICADOR  valor
+Lista 6: ERROR          token no valido '@'
+Lista 6: ENTERO         99
+Lista 7: IDENTIFICADOR  nota
+Lista 7: ERROR          token no valido '='
+Lista 7: ENTERO         1
+-----------------------------
+Total de errores: 3

@@ -1,2 +1,2 @@
-Numero de lineas 4
-Numero de caracteres 173
+Numero de lineas 3
+Numero de caracteres 55
