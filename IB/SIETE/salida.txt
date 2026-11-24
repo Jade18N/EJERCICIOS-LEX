@@ -1,0 +1,18 @@
++   ARITMETICO  suma
+-   ARITMETICO  resta
+*   ARITMETICO  multiplicacion
+/   ARITMETICO  division
+<   RELACIONAL  menor que
+<=  RELACIONAL  menor o igual que
+>   RELACIONAL  mayor que
+>=  RELACIONAL  mayor o igual que
+==  RELACIONAL  igual a
+!=  RELACIONAL  distinto de
+=   NO ES OPERADOR
+=   NO ES OPERADOR
+<   RELACIONAL  menor que
+!   NO ES OPERADOR
+<=  RELACIONAL  menor o igual que
+=   NO ES OPERADOR
+==  RELACIONAL  igual a
+=   NO ES OPERADOR
