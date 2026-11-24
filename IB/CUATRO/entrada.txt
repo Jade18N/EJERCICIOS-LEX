@@ -1,0 +1,11 @@
+#include <stdio.h>
+
+int main(){
+  int parada = 0;
+  
+  for(int i=0; i == parada; i++){
+    printf("Hola Mundo, estoy contando. Voy en %d", i)
+  }
+
+  return 0;
+}
